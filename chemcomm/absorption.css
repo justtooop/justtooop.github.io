@@ -67,6 +67,10 @@ table {
   h2 {
     font-size: 160%;
   }
+  h3 {
+      font-size: 140%;
+      font-weight: 450;
+  }
   h5 {
      font-size: 140%;
   }
