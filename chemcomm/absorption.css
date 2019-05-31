@@ -8,11 +8,16 @@
         border-radius: 10px;
     }
 }
+#black_box {
+  height: 100%;
+  background-color: black;
+}
+
 .custom-img1 {
     border-radius: 20px;
 }
 body {
-    padding-top: 5rem;
+    /* padding-top: 5rem; */
 }
 .starter-template {
     padding: 3rem 1.5rem;
@@ -23,7 +28,7 @@ body {
     text-align: justify;
 }
 body {
-    padding-top: 3rem;
+    /* padding-top: 3rem; */
 }
 .starter-template {
     padding: 3rem 1.5rem;
@@ -100,6 +105,10 @@ table {
   a.fix-flow {
       overflow: hidden;
       text-overflow: ellipsis;
+  }
+  #black_box {
+    height: 100%;
+    background-color: black;
   }
 }
 @media only screen and (max-width: 375px){
