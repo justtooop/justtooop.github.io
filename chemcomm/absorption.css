@@ -9,8 +9,11 @@
     }
 }
 #black_box {
+  background: url("img/absorption.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  /* background-size: auto; */
   height: 100%;
-  background-color: black;
 }
 
 .custom-img1 {
